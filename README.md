@@ -13,7 +13,15 @@ gh repo clone v1nguyen/simple-start
 ```
 npm install -g npm
 ```
-3. Run the following command to compile the site.
+3. Run the following command to test the site.
+```
+npm run start
+```
+### Usage
+1. Run the following command to compile the site.
 ```
 npm run build
 ```
+2. Navigate to the newly created ```build``` folder within your directory.
+3. Load the static ```index.html``` file in your browser.
+4. Save the file as the homepage in your browser preferences.
